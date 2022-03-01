@@ -1,4 +1,10 @@
 # SkillFactory
+## Projects:
+1. [Прогнозирование стоимости автомобиля](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_8) по табличным данным, описаниям к автомобилю, и его фотографий  полученныx с сайта auto.ru.   
+Построение multi-input нейронной сети (CatBoost + NLP + CV). 
+2. [Классификация модели автомобиля по фотографии](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_7). 
+3. [Прогнозирование рейтинга ресторана](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_3).   
+4. [Скоринговая модель  кредитоспособности заемщиков банка](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_4). 
 
 ## Описание
 **SkillFactory** - онлайн-школа, в которой проходит курс изучения Data Sсience с нуля. Ссылка на курс:  [Специализация Data Science](https://skillfactory.ru/data-science-specialization)
