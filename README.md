@@ -1,5 +1,5 @@
 # SkillFactory
-## Projects:
+## Проекты:
 1. [Прогнозирование стоимости автомобиля](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_8) по табличным данным, описаниям к автомобилю, и его фотографий  полученныx с сайта auto.ru.   
 Построение multi-input нейронной сети (CatBoost + NLP + CV). 
 2. [Классификация модели автомобиля по фотографии](https://github.com/MikhailPerebatov/SkillFactory_PROJECT/tree/main/SKF-module_7). 
